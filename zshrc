@@ -43,7 +43,7 @@ bindkey '^R' history-incremental-search-backward
 bindkey '^[[H' beginning-of-line
 bindkey '^[[F' end-of-line
 
-export PATH="$PATH:/usr/local/jdk1.6.0_32/bin:/usr/local/maven3/bin"
+export PATH="$PATH"
 
 alias ll='ls -alF'
 alias la='ls -A'
