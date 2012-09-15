@@ -20,3 +20,5 @@
     rl = reflog
     who = shortlog -s --
     w = whatchanged
+[credential]
+	helper = cache
